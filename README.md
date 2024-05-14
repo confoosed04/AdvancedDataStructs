@@ -6,6 +6,7 @@ contents:
 3. Binary search tree
 4. Threaded binary tree
 5. Graph creating
-6. Heaping
-7. Hashing with file handling
-8. AVL tree 
+6. Prims Algo
+7. Heaping
+8. Hashing with file handling
+9. AVL tree 
